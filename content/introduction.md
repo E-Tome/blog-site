@@ -9,4 +9,6 @@ This is my first ever personal blog page, so it might look a bit messy but it fu
 Will be uploading a mix of general life updates and grind stuff.
 (You can look at what tags i've uploaded to by clicking/pressing on the menu at the top left.)
 
+![guitar](/guitar.jpg)
+
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

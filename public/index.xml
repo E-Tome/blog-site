@@ -23,6 +23,21 @@ I&amp;rsquo;m a computer science student studying in DCU and I absolutely love m
 This is my first ever personal blog page, so it might look a bit messy but it functions.
 Will be uploading a mix of general life updates and grind stuff.
 (You can look at what tags i&amp;rsquo;ve uploaded to by clicking/pressing on the menu at the top left.)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/guitar.jpg&#34;
+     alt=&#34;guitar&#34;
+     width=&#34;400&#34;
+     height=&#34;auto&#34;
+     class=&#34;center&#34; /&gt;
+
+&lt;style&gt;
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+&lt;/style&gt;
+&lt;/p&gt;
 &lt;p&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/p&gt;
 - http://localhost:1313/introduction/ - </description>
         </item>
