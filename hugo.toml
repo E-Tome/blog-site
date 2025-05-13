@@ -1,4 +1,4 @@
-baseURL = 'https://e.tome.github.io/blog-site.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'very cool blog'
 theme = 'diary'

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>very cool blog</title>
-    <link>http://localhost:1313/blog-site.github.io/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on very cool blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 May 2025 09:47:15 +0100</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/blog-site.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>Introduction</title>
-        <link>http://localhost:1313/blog-site.github.io/introduction/</link>
+        <link>//localhost:1313/introduction/</link>
         <pubDate>Tue, 13 May 2025 09:47:15 +0100</pubDate>
         
-        <guid>http://localhost:1313/blog-site.github.io/introduction/</guid>
-        <description>very cool blog http://localhost:1313/blog-site.github.io/introduction/ -&lt;p&gt;Hello, my name is Edvard Tome, which you can probably tell by this site url.
+        <guid>//localhost:1313/introduction/</guid>
+        <description>very cool blog //localhost:1313/introduction/ -&lt;p&gt;Hello, my name is Edvard Tome, which you can probably tell by this site url.
 I&amp;rsquo;m a computer science student studying in DCU and I absolutely love my life.
 This is my first ever personal blog page, so it might look a bit messy but it functions.
 Will be uploading a mix of general life updates and grind stuff.
@@ -39,7 +39,7 @@ Will be uploading a mix of general life updates and grind stuff.
 &lt;/style&gt;
 &lt;/p&gt;
 &lt;p&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/p&gt;
-- http://localhost:1313/blog-site.github.io/introduction/ - </description>
+- //localhost:1313/introduction/ - </description>
         </item>
     
     
