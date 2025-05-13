@@ -1,6 +1,4 @@
 baseURL = 'https://e-tome.github.io/blog-site/'
-relativeURLs = false
-canonifyURLs = true
 languageCode = 'en-us'
 title = 'very cool blog'
 theme = 'diary'
