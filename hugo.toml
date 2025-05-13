@@ -23,6 +23,24 @@ theme = 'diary'
 [params]
 enableGitalk = false
 
+  [[params.social]]
+    name = "github"
+    icon = "fab fa-github"
+    url = "https://github.com/E-Tome"
+    weight = 1
+
+  [[params.social]]
+    name = "linkedin"
+    icon = "fab fa-linkedin"
+    url = "https://www.linkedin.com/in/edvard-tome-400957245/"
+    weight = 2
+
+  [[params.social]]
+    name = "instagram"
+    icon = "fab fa-instagram"
+    url = "https://www.instagram.com/e.tome_/"
+    weight = 3
+
 [taxonomies]
    tag = "tags"
    category = "categories"

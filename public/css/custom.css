@@ -1,0 +1,8 @@
+/* 1. Increase icon size */
+.footer-social a i {
+  font-size: 2rem;  
+  /* 2a. Fallback: inherit current text color
+     (Font Awesome icons blend with surrounding text) */
+  color: currentColor;
+  padding: 5px; 
+}
