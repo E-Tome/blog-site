@@ -19,7 +19,7 @@
         {{ range .Site.Menus.main }}
             {{$actived := "false"}}
             <!-- A problem caused by slash: if you use "eq" directly, you will get a result of "/tags/" and "/tags" -->
-            {{if hasPrefix  $current (.URL|absLangURL)}}
+            {{if hasPrefix  $current (.URL|relLangURL|absURL)}}
                 {{$actived = "active"}}
             {{end}}
             {{ if .HasChildren }}
