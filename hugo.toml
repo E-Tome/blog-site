@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://e-tome.github.io/blog-site.github.io/'
 languageCode = 'en-us'
 title = 'very cool blog'
 theme = 'diary'
@@ -45,7 +45,6 @@ enableGitalk = false
 
 [taxonomies]
    tag = "tags"
-   category = "categories"
 
 [[menu.main]]
 url = "/tags"
