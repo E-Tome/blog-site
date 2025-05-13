@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on very cool blog</title>
+    <link>//localhost:1313/tags/projects/</link>
+    <description>Recent content in Projects on very cool blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 May 2025 17:08:12 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Pain</title>
+      <link>//localhost:1313/site-pain/</link>
+      <pubDate>Tue, 13 May 2025 17:08:12 +0100</pubDate>
+      <guid>//localhost:1313/site-pain/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
