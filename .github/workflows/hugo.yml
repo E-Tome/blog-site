@@ -13,24 +13,20 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Check out your repo
       - uses: actions/checkout@v3
 
-      # 2. Set up Hugo and build your site
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+
       - name: Build
         run: hugo --minify
 
-      # 3. Upload the generated 'public/' directory as the Pages artifact
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: public
+          path: public     # <-- your generated folder
 
-      # 4. Deploy that artifact to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
