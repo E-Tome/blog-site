@@ -18,7 +18,10 @@
         <pubDate>Tue, 13 May 2025 17:08:12 +0100</pubDate>
         
         <guid>//localhost:1313/site-pain/</guid>
-        <description>very cool blog //localhost:1313/site-pain/ -&lt;p&gt;test&lt;/p&gt;
+        <description>very cool blog //localhost:1313/site-pain/ -&lt;p&gt;I have spent way too much time on this crap. I have no idea why it didn&amp;rsquo;t work before, but it&amp;rsquo;s working now. This whole site is hanging on a thread it&amp;rsquo;s hilarious. I am begging for nothing to break when I upload this.&lt;/p&gt;
+&lt;p&gt;At first the issue was it constantly bringing me to localhost:1313 everytime I clicked on &amp;ldquo;very cool blog&amp;rdquo;, instead of the main page. It took forever and a lot of hard-coding but eventually it was sort of working.&lt;/p&gt;
+&lt;p&gt;Then the styling just died after I uploaded another blog post. I don&amp;rsquo;t know how. I spent another few hours just trying to fix this issue. I re-did the theme, then re-installed the whole thing. Nothing. Now I just went back to an older version of the repo and by some miracle it&amp;rsquo;s working. Half of my day gone tinkering with this bullshit.&lt;/p&gt;
+&lt;p&gt;But at least now it&amp;rsquo;s up and running and seems to have kept it&amp;rsquo;s styling. Welcome to edvardto.me, my online diary.&lt;/p&gt;
 - //localhost:1313/site-pain/ - </description>
         </item>
     

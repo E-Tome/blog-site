@@ -13,7 +13,7 @@
       <link>//localhost:1313/site-pain/</link>
       <pubDate>Tue, 13 May 2025 17:08:12 +0100</pubDate>
       <guid>//localhost:1313/site-pain/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have spent way too much time on this crap. I have no idea why it didn&amp;rsquo;t work before, but it&amp;rsquo;s working now. This whole site is hanging on a thread it&amp;rsquo;s hilarious. I am begging for nothing to break when I upload this.&lt;/p&gt;&#xA;&lt;p&gt;At first the issue was it constantly bringing me to localhost:1313 everytime I clicked on &amp;ldquo;very cool blog&amp;rdquo;, instead of the main page. It took forever and a lot of hard-coding but eventually it was sort of working.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
